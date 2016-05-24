@@ -8,14 +8,15 @@
 			"revisionTime": "2016-01-18T19:00:32-05:00"
 		},
 		{
-			"path": "github.com/beevik/ntp",
-			"revision": "283ed9d548825a1dae0994311560e8dbf8efac68",
-			"revisionTime": "2015-11-09T15:30:19-08:00"
-		},
-		{
 			"path": "github.com/beorn7/perks/quantile",
 			"revision": "b965b613227fddccbfffe13eae360ed3fa822f8d",
 			"revisionTime": "2015-02-23T14:51:52+01:00"
+		},
+		{
+			"checksumSHA1": "BtorliZLrjrS7ZsbWyHt32q2YSQ=",
+			"path": "github.com/chbatey/ntp",
+			"revision": "6187bbf9abca54accf3ba8ad2cf80dc71fccbd7a",
+			"revisionTime": "2016-05-24T15:08:16Z"
 		},
 		{
 			"path": "github.com/coreos/go-systemd/dbus",
